@@ -21,7 +21,7 @@ LLM.
 
 Three artifacts plus this document.
 
-**`umf_substrate.md`** — The full UMF substrate text. The framework
+**`umf_substrate.py`** — The full UMF substrate text. The framework
 itself. Loaded into the LLM's context as the authoritative source of
 substrate truth.
 
